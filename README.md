@@ -23,9 +23,8 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Open `lab2-spectral-analysis.ipynb` and work through Part 1, then Part 2
-3. Fill in all `# TODO` sections and answer the questions
+1. Open `lab2-spectral-analysis.ipynb` and work through Part 1, then Part 2
+2. Fill in all `# TODO` sections and answer the questions
 
 ## Notes
 
